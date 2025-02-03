@@ -1,8 +1,6 @@
-# Future of Coding • Code of Conduct
+# User & Agents • Code of Conduct
 
-Future of Coding is an online community with a welcoming, cooperative, and [revolutionary](https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines) spirit. We are unified in the belief that the common practice of programming is tragically less [humane](http://worrydream.com/#!/TheHumaneRepresentationOfThoughtTalk) than it could be. There's a world of [possibilities](https://dynamicland.org) that get more beautiful the further away from the norm you go. We're here to explore this world together, to discuss ideas about theory and practice, and to champion and support our members' research and development efforts.
-
-One of many principles held by the community is that computing currently reflects the interests of a narrow minority of people. A directed effort is needed to broaden the accessibility of computing and amplify the influence of historically underrepresented people in shaping its future. Our community needs more gender diversity in particular, we're actively working to improve that. This code of conduct is one part of that effort.
+User & Agents is an online community with a welcoming, cooperative, and [revolutionary](https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines) spirit. We are unified in the belief that the common practice of programming is tragically less [humane](http://worrydream.com/#!/TheHumaneRepresentationOfThoughtTalk) than it could be. There's a world of [possibilities](https://dynamicland.org) that get more beautiful the further away from the norm you go. We're here to explore this world together, to discuss ideas about theory and practice, and to champion and support our members' research and development efforts.
 
 It's called a "code of conduct" so that people are easily able to locate it, but don't get hung up on the name. The goal is that this document should help you feel more confident participating in our community by knowing what values we hold and how we express them.
 
@@ -11,8 +9,8 @@ The code of conduct applies to all community-affiliated spaces, including but no
 ### Sharing
 
 We encourage you to
-* Share your own work! Share the deep technical details. Start a wide-ranging discussion about the design of your work and how it'll advance a more humane future of computing.
-* Share thoughts that you have, or things that you find, in the form of blog posts, talks, papers, books, conferences, wikis, repos, communities, trivia, quotes, rants, jokes, art, and all other expressions related to the past, present, or future of programming.
+* Share your own work! Share the deep technical details. Start a wide-ranging discussion about the design of your work and how it'll advance a more agentic computing.
+* Share thoughts that you have, or things that you find, in the form of blog posts, talks, papers, books, conferences, wikis, repos, communities, trivia, quotes, rants, jokes, art, and all other expressions related to the past, present, or agentic computing.
 
 We discourage
 * New members linking to startups, for-profit products, or other commercial interests, unless you also foster discussion about the work that relates it to our community's interests (as described above).
@@ -44,7 +42,7 @@ When responding to something that violates this code of conduct, moderators will
 
 If you see or experience a violation of this code of conduct, or if you are wondering whether something you'd like to share might run afoul, please talk to our moderator:
 
-* Ivan Reese (@ivanreese in the Slack, or email [admin@futureofcoding.org](mailto:admin@futureofcoding.org))
+* Ankesh Bharti (@feynon on Discord, or email [hey@ankeshbharti.com](mailto:hey@ankeshbharti.com))
 
 ### Thanks
 
