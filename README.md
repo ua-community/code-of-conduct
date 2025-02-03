@@ -1,6 +1,6 @@
 # User & Agents • Code of Conduct
 
-User & Agents is an online community with a welcoming, cooperative, and [revolutionary](https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines) spirit. We are unified in the belief that the common practice of programming is tragically less [humane](http://worrydream.com/#!/TheHumaneRepresentationOfThoughtTalk) than it could be. There's a world of [possibilities](https://dynamicland.org) that get more beautiful the further away from the norm you go. We're here to explore this world together, to discuss ideas about theory and practice, and to champion and support our members' research and development efforts.
+User & Agents is an online community with a welcoming, cooperative, and [revolutionary](https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines) spirit. We are unified in the belief that we need to empower individuals with software that enables them to create their own agency—a world where we have a user-agent that truly serves the individual rather than corporations. We're here to explore this world together, to discuss ideas about theory and practice, and to champion and support our members' research and development efforts.
 
 It's called a "code of conduct" so that people are easily able to locate it, but don't get hung up on the name. The goal is that this document should help you feel more confident participating in our community by knowing what values we hold and how we express them.
 
