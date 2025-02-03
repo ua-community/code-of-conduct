@@ -4,7 +4,7 @@ User & Agents is an online community with a welcoming, cooperative, and [revolut
 
 It's called a "code of conduct" so that people are easily able to locate it, but don't get hung up on the name. The goal is that this document should help you feel more confident participating in our community by knowing what values we hold and how we express them.
 
-The code of conduct applies to all community-affiliated spaces, including but not limited to the Slack, podcast, websites, repos, wikis, and meetups organized within the community. The examples listed below are illustrative, not exhaustive. When in doubt, ask! The moderators listed near the bottom will be happy to listen and help however they can.
+The code of conduct applies to all community-affiliated spaces, including but not limited to the Discord, podcast, websites, repos, wikis, and meetups organized within the community. The examples listed below are illustrative, not exhaustive. When in doubt, ask! The moderators listed near the bottom will be happy to listen and help however they can.
 
 ### Sharing
 
